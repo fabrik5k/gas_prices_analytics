@@ -10,7 +10,6 @@ Este repositório contém um projeto desenvolvido para a disciplina de **Ciênci
 - Explorar e preparar os dados para análise.
 - Visualizar tendências e padrões de preços ao longo do tempo.
 - Identificar fatores que podem impactar o preço do gás.
-- (Opcional) Prever preços futuros com aprendizado de máquina.
 
 ## 🛠️ Ferramentas Utilizadas
 
